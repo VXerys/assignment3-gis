@@ -1,6 +1,3 @@
-Nama: M.Sechan Alfarisi
-Kelas: TI23F
-
 # Proyek Perbandingan Proyeksi Peta: Web Mercator vs. EPSG:4326
 
 ## Deskripsi Singkat
