@@ -1,4 +1,7 @@
-<img width="1904" height="980" alt="image" src="https://github.com/user-attachments/assets/f8751be6-1966-43e5-b94b-0d0c653e46b4" /># Proyek Perbandingan Proyeksi Peta: Web Mercator vs. EPSG:4326
+Nama: M.Sechan Alfarisi
+Kelas: TI23F
+
+# Proyek Perbandingan Proyeksi Peta: Web Mercator vs. EPSG:4326
 
 ## Deskripsi Singkat
 
