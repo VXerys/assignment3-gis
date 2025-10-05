@@ -1,4 +1,4 @@
-# Proyek Perbandingan Proyeksi Peta: Web Mercator vs. EPSG:4326
+<img width="1904" height="980" alt="image" src="https://github.com/user-attachments/assets/f8751be6-1966-43e5-b94b-0d0c653e46b4" /># Proyek Perbandingan Proyeksi Peta: Web Mercator vs. EPSG:4326
 
 ## Deskripsi Singkat
 
@@ -16,7 +16,8 @@ Peta ini menggunakan proyeksi default dari Leaflet.js, yaitu Web Mercator. Tampi
 
 **File:** `index.html`
 
-*(Di sini nanti bisa ditambahkan screenshot untuk peta Web Mercator)*
+<img width="1910" height="969" alt="image" src="https://github.com/user-attachments/assets/f550dbe7-4b55-4894-91c5-75c12f0689e8" />
+
 
 ### 2. Peta EPSG:4326
 
@@ -28,7 +29,8 @@ Peta kedua ini secara eksplisit diatur untuk menggunakan sistem koordinat geogra
 
 **File:** `peta-2.html`
 
-*(Di sini nanti bisa ditambahkan screenshot untuk peta EPSG:4326)*
+<img width="1908" height="979" alt="image" src="https://github.com/user-attachments/assets/28426c5a-37c5-44d4-9f2a-075f57e704cb" />
+
 
 ## Analisis Perbedaan (Jawaban Tugas)
 
